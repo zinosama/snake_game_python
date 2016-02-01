@@ -2,6 +2,8 @@ Snake game in Python
 
 This is a small practice project built in Python. To start the game, run the run.py file. Snake moves every second. User can control the direction of snake by using AWSD commands. When snake eats a candy, it grows longer. When snake hits itself or the wall, it dies and game is over lol.
 
+This project utilizes a two-way linked list to store the snake's position, which allows constant time in adding and removing new information.
+
 Here's a short demo on Youtube: [Click me](https://youtu.be/Yg553lY-Wtc)
 
 *This project has only been tested in Python 2.7.6
